@@ -5,8 +5,6 @@ A 6-key macro pad with two rotary knobs, a 0.91" OLED and RGB lighting, built on
 Built by a school IT technician, so it's packed with IT tools, but it works just as well as a general stream deck or productivity pad.
 
 **🖨️ Print files:** [MakerWorld — MacroForge](LINK-TO-YOUR-MAKERWORLD-MODEL)
-**🌐 Open the editor:** https://YOUR-USERNAME.github.io/macroforge/editor/editor.html *(Chrome or Edge)*
-
 ---
 
 ## Features
